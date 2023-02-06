@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right,#34dac9,#bfdebf, #8adbcd);
+    
+}
+.option{
+    border-width: 2px;
+    border-style: outset;
+    border-radius: 13px;
+    border-width: 1px;
+}

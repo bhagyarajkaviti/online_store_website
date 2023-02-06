@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right,#34dac9,#bfdebf, #8adbcd);
+    
+}
+.card2{
+    background-color: white;
+
+}
+.lists{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 100px;
+}

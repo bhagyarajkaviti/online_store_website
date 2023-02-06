@@ -1,0 +1,27 @@
+.main-bg{
+    background-image: linear-gradient(rgb(8, 158, 118),#03bb71,white,white,white,white);
+    padding-left: auto;
+    padding-right: auto;
+}
+.icon{
+    color: white;
+    font-style: italic;
+    font-size: 27px;
+}
+.heading1{
+    color: aliceblue;
+    font-size: 57px;
+}
+.heading2{
+    color: rgba(249, 252, 253, 0.897);
+}
+.forms{
+    height: 45px;
+    width: 240px;
+}
+.button{
+    height: 45px;
+}
+.para1{
+    color: aliceblue;
+}
